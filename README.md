@@ -1,6 +1,6 @@
-# 👋 Hello, Cyber World! I'm Kaustubh Chavan  
+# Hello, I'm Kaustubh Chavan  
 
-## 🛡️ Cybersecurity Enthusiast | Cloud Security | DevSecOps Engineer  
+## Cybersecurity Enthusiast | Cloud Security 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kaustubh-cyber&color=blueviolet&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kaustubh-chavan/)
@@ -8,20 +8,21 @@
 
 ---
 
-### 💼 Professional Summary  
+### Professional Summary  
 
-Cybersecurity & Cloud enthusiast passionate about protecting digital assets and securing modern infrastructure.  
+Hi, I'm Kaustubh Chavan! Cybersecurity Enthusiast specializing in Penetration Testing, Threat Analysis, and Cloud Security. Passionate about securing systems and uncovering vulnerabilities.  
+  
 I specialize in **penetration testing**, **cloud security**, and **DevSecOps**, bridging the gap between security and automation.  
 
-- 🎯 Focused on becoming a **Security Analyst / SOC Analyst / Penetration Tester**  
-- 🌩️ Experienced with **AWS, Linux, Docker, Kubernetes**  
-- 🧠 Learning **SIEM tools (Splunk, Wazuh, ELK)** and **Threat Analysis**  
-- 💬 Ask me about **Ethical Hacking, Cloud Security, DevOps, or Automation**  
-- ⚡ Fun fact: Every log tells a story — you just have to listen carefully 👀  
+- Focused on becoming a **Security Analyst / SOC Analyst / Penetration Tester**  
+- Experienced with **AWS, Linux, Docker, Kubernetes**  
+- Learning **SIEM tools (Splunk, Wazuh, ELK)** and **Threat Analysis**  
+- Ask me about **Ethical Hacking, Cloud Security, DevOps, or Automation**  
+- Fun fact: Every log tells a story — you just have to listen carefully 👀  
 
 ---
 
-## 🧰 Tech Stack  
+## Tech Stack  
 
 <p align="center">
   <!-- OS & Scripting -->
@@ -45,58 +46,32 @@ I specialize in **penetration testing**, **cloud security**, and **DevSecOps**, 
 
 ---
 
-### 🔐 Featured Projects  
+### Featured Projects  
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">ScanKit---Automated-Recon-Vulnerability-Scanner</h3>
+      <h3 align="center">ScanKit — Automated Recon & Vulnerability Scanner</h3>
       <p align="center">
-        <a href="https://github.com/0Kaustubh-Chavan0/ScanKit---Automated-Recon-Vulnerability-Scanner" target="_blank">
+        <a href="https://github.com/kaustubh-cyber/ScanKit---Automated-Recon-Vulnerability-Scanner" target="_blank">
           <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
         </a>
       </p>
-      <p>
-        Automated vulnerability scanning and reporting using **Kali Linux**, **Docker**, and **AWS Lambda**.  
-        Designed to perform security audits across cloud instances.
+      <p>ScanKit is an automated reconnaissance and vulnerability scanning toolkit that streamlines information gathering, 
+        subdomain enumeration and security analysis.
+        Integrated with Nmap, Whois and Nikto to provide actionable insights during assessments.
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">SOC Home Lab (Splunk + Wazuh)</h3>
+      <h3 align="center">Harmony Hub</h3>
       <p align="center">
-        <a href="https://github.com/kaustubh-cyber/SOC-Lab" target="_blank">
+        <a href="https://github.com/kkrish-77/Simple-Monitoring-DevOps-Project.git" target="_blank">
           <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
         </a>
       </p>
-      <p>
-        Built a local **Security Operations Center** using open-source tools.  
-        Simulated real-world attacks and analyzed incidents with SIEM dashboards.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">OWASP Top 10 Vulnerability Lab</h3>
-      <p align="center">
-        <a href="https://github.com/kaustubh-cyber/OWASP-Lab" target="_blank">
-          <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
-        </a>
-      </p>
-      <p>
-        Created a hands-on environment to learn and exploit the **OWASP Top 10** vulnerabilities,  
-        integrated with GitHub Actions for continuous security testing.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">DevSecOps CI/CD Pipeline</h3>
-      <p align="center">
-        <a href="https://github.com/kaustubh-cyber/DevSecOps-Pipeline" target="_blank">
-          <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
-        </a>
-      </p>
-      <p>
-        Implemented a CI/CD pipeline with integrated **SAST (SonarQube)**, **DAST (OWASP ZAP)**,  
-        and **Container Scanning** using GitHub Actions and Docker.
+      <p>Deployed a scalable music streaming website using AWS EKS, Docker and NGINX Ingress.  
+        Configured TLS automation with cert-manager. Let’s Encrypt and set up CI/CD pipelines with GitHub Actions for continuous deployment.  
+        Utilized DuckDNS for dynamic DNS mapping and AWS NLB for secure load balancing.
       </p>
     </td>
   </tr>
@@ -104,18 +79,18 @@ I specialize in **penetration testing**, **cloud security**, and **DevSecOps**, 
 
 ---
 
-### 🚀 Current Focus  
+### Current Focus  
 
-- 🧠 Mastering **Threat Detection & Incident Response**  
-- ☁️ Learning **AWS Security & Cloud Monitoring**   
-- 🛠 Building **open-source security automation tools**  
+- Mastering **Threat Detection & Incident Response**  
+- Learning **AWS Security & Cloud Monitoring**   
+- Building **open-source security automation tools**  
 
 ---
 
-### 🤝 Let's Connect  
+### Let's Connect  
 
 <div align="center">
-  <a href="mailto:kaustubh.csec@gmail.com" target="_blank">
+  <a href="mailto:kaustubh.chavan0111@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
@@ -130,5 +105,5 @@ I specialize in **penetration testing**, **cloud security**, and **DevSecOps**, 
 
 <div align="center">
   <img src="https://github.com/kaustubh-cyber/kaustubh-cyber/blob/main/assets/security-animation.gif" width="500" alt="Cybersecurity Animation">
-  <p><i>⚡ Fun fact: The best firewall is between your keyboard and your brain 🧠🔥</i></p>
+  <p><i> Fun fact: The best firewall is between your keyboard and your brain </i></p>
 </div>
