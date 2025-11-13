@@ -104,19 +104,10 @@ I specialize in **penetration testing**, **cloud security**, and **DevSecOps**, 
 
 ---
 
-### 📈 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaustubh-cyber&show_icons=true&theme=radical" height="170">
-</div>
-
----
-
 ### 🚀 Current Focus  
 
 - 🧠 Mastering **Threat Detection & Incident Response**  
-- ☁️ Learning **AWS Security & Cloud Monitoring**  
-- 🔍 Exploring **Red vs Blue Team techniques**  
+- ☁️ Learning **AWS Security & Cloud Monitoring**   
 - 🛠 Building **open-source security automation tools**  
 
 ---
