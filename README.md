@@ -50,9 +50,9 @@ I specialize in **penetration testing**, **cloud security**, and **DevSecOps**, 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Cloud-Based Automated Penetration Testing Tool</h3>
+      <h3 align="center">ScanKit---Automated-Recon-Vulnerability-Scanner</h3>
       <p align="center">
-        <a href="https://github.com/kaustubh-cyber/Cloud-AutoPentest" target="_blank">
+        <a href="https://github.com/0Kaustubh-Chavan0/ScanKit---Automated-Recon-Vulnerability-Scanner" target="_blank">
           <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
         </a>
       </p>
@@ -124,14 +124,8 @@ I specialize in **penetration testing**, **cloud security**, and **DevSecOps**, 
 ### 🤝 Let's Connect  
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kaustubh-chavan/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
   <a href="mailto:kaustubh.csec@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://x.com/KaustubhSec" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </div>
 
