@@ -63,7 +63,7 @@ I specialize in **penetration testing**, **cloud security**, and **DevSecOps**, 
     <td width="50%">
       <h3 align="center">Harmony Hub</h3>
       <p align="center">
-        <a href="https://github.com/kkrish-77/Simple-Monitoring-DevOps-Project.git" target="_blank">
+        <a href="https://github.com/0Kaustubh-Chavan0/ScanKit---Automated-Recon-Vulnerability-Scanner" target="_blank">
           <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
         </a>
       </p>
