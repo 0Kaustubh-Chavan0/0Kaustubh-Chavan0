@@ -51,7 +51,7 @@ I specialize in **penetration testing**, **cloud security**, and **DevSecOps**, 
     <td width="50%">
       <h3 align="center">ScanKit — Automated Recon & Vulnerability Scanner</h3>
       <p align="center">
-        <a href="https://github.com/kaustubh-cyber/ScanKit---Automated-Recon-Vulnerability-Scanner" target="_blank">
+        <a href="https://github.com/0Kaustubh-Chavan0/ScanKit---Automated-Recon-Vulnerability-Scanner" target="_blank">
           <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
         </a>
       </p>
