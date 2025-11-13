@@ -3,8 +3,6 @@
 ## Cybersecurity Enthusiast | Cloud Security 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kaustubh-cyber&color=blueviolet&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kaustubh-chavan/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat-square&logo=google-chrome)](https://kaustubh-portfolio.netlify.app)
 
 ---
 
