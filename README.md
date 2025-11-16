@@ -40,6 +40,29 @@ I specialize in **penetration testing**, **cloud security**, and **DevSecOps**, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50" alt="Terraform"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50" height="50" alt="Ansible"/>
+
+   <!-- IaC / Orchestration -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" title="Terraform"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" title="Jenkins"/>
+  <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="40" height="40" alt="Argo CD" title="Argo CD"/>
+
+  <!-- Cloud Providers -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40" alt="Azure" title="Azure"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="GCP" title="GCP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle Cloud" title="Oracle Cloud"/>
+
+  <!-- Containers & OS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux"/>
+
+  <!-- Security / SIEM / IDS -->
+  <!-- Splunk badge (safe fallback) -->
+  <img src="https://img.shields.io/badge/Splunk-%23000000?style=flat-square&logo=splunk&logoColor=white" width="92" height="28" alt="Splunk" title="Splunk"/>
+  <!-- Tor (Wikimedia PNG) -->
+  <img width="40" height="40" alt="Tor" title="Tor Browser" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgdmlld0JveD0iMCAwIDEyOCAxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZmlsbD0iIzkxMjE5NyIgZD0iTTY0IDBjMzUuMzIgMCA2NCAyOC42OCA2NCA2NHMtMjguNjggNjQtNjQgNjQtNjQtMjguNjgtNjQtNjQgMjguNjgtNjQgNjQtNjR6Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTY4LjUgMzcuNWMtNC41LTAuMS05LjQgMi40LTEyLjcgNi40LTMuNCA0LTUuMyA5LjItNi40IDE0LjctMS4yI
+  <!-- Snort / Nessus: shields fallback badges (logos not always available as public SVGs) -->
+  <img src="https://img.shields.io/badge/Snort-%2300A1E4?style=flat-square&logo=snort&logoColor=white" width="92" height="28" alt="Snort" title="Snort (IDS)"/>
+  <img src="https://img.shields.io/badge/Nessus-%23CC0000?style=flat-square&logo=nessus&logoColor=white" width="92" height="28" alt="Nessus" title="Nessus (Vulnerability Scanner)"/>
 </p>
 
 ---
