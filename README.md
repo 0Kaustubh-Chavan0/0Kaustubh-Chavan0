@@ -22,50 +22,33 @@ I specialize in **penetration testing**, **cloud security**, and **DevSecOps**, 
 
 ## Tech Stack  
 
-<p align="center">
-  <!-- OS & Scripting -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-  </a>
+<div align="center">
 
-  <!-- Security Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="50" height="50" alt="Kali Linux"/>
-  <img src="https://img.icons8.com/color/48/metasploit.png" width="50" height="50" alt="Metasploit"/>
-  <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="50" height="50" alt="Nmap"/>
-  <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="50" height="50" alt="BurpSuite"/>
-  </a>
+<!-- OS & Scripting -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
 
-  <!-- Cloud & Automation -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" height="50" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50" alt="Terraform"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50" height="50" alt="Ansible"/>
+<!-- Security Tools -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50" height="50"/>
 
-   <!-- IaC / Orchestration -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" title="Terraform"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" title="Jenkins"/>
-  <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="40" height="40" alt="Argo CD" title="Argo CD"/>
+<!-- Cloud & DevOps -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50" height="50"/>
 
-  <!-- Cloud Providers -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40" alt="Azure" title="Azure"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="GCP" title="GCP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle Cloud" title="Oracle Cloud"/>
+<!-- CI/CD & Tools -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="50"/>
 
-  <!-- Containers & OS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux"/>
+<!-- Cloud Providers -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50"/>
 
-  <!-- Security / SIEM / IDS -->
-  <!-- Splunk badge (safe fallback) -->
-  <img src="https://img.shields.io/badge/Splunk-%23000000?style=flat-square&logo=splunk&logoColor=white" width="92" height="28" alt="Splunk" title="Splunk"/>
-  
-  <!-- Snort / Nessus: shields fallback badges (logos not always available as public SVGs) -->
-  <img src="https://img.shields.io/badge/Snort-%2300A1E4?style=flat-square&logo=snort&logoColor=white" width="92" height="28" alt="Snort" title="Snort (IDS)"/>
-  <img src="https://img.shields.io/badge/Nessus-%23CC0000?style=flat-square&logo=nessus&logoColor=white" width="92" height="28" alt="Nessus" title="Nessus (Vulnerability Scanner)"/>
-</p>
-
+</div>
 ---
 
 ### Featured Projects  
