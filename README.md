@@ -44,7 +44,7 @@ I specialize in **penetration testing**, **cloud security**, and **DevSecOps**, 
 ---
 
 ###  Cybersecurity & SIEM
-Splunk • Wazuh • ELK Stack • Nmap • Burp Suite • Metasploit • Snort • Nessus
+Splunk • ELK Stack • Nmap • Burp Suite • Metasploit •
 
 ### Featured Projects  
 
