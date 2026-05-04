@@ -24,15 +24,15 @@ I specialize in **penetration testing**, **cloud security**, and **DevSecOps**, 
 
 <p align="center">
   <!-- OS & Scripting -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+ - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
+ - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash"/>
+ - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
 
   <!-- Security Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="50" height="50" alt="Kali Linux"/>
-  <img src="https://img.icons8.com/color/48/metasploit.png" width="50" height="50" alt="Metasploit"/>
-  <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="50" height="50" alt="Nmap"/>
-  <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="50" height="50" alt="BurpSuite"/>
+ - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="50" height="50" alt="Kali Linux"/>
+ - <img src="https://img.icons8.com/color/48/metasploit.png" width="50" height="50" alt="Metasploit"/>
+ - <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="50" height="50" alt="Nmap"/>
+ - <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="50" height="50" alt="BurpSuite"/>
 
   <!-- Cloud & Automation -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" height="50" alt="AWS"/>
